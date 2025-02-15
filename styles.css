@@ -20,10 +20,16 @@ header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+
+
 header h1 {
   text-align: center;
   margin: 0;
   font-size: 2.5em;
+}
+nav{
+  border: 2px solid #D69ADE;
+  border-radius: 9px;
 }
 
 nav ul {
