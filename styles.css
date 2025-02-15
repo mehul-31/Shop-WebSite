@@ -38,6 +38,7 @@ nav ul li {
   display: inline;
   margin: 0 15px;
   background-color: #222831;
+  flex-wrap: wrap;
   
 }
 
